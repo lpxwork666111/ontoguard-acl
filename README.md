@@ -1,7 +1,7 @@
 # OntoGuard: Enforcing Action Admissibility for LLM Agents in Complex Interactive Environments
 
 <p align="center">
-  <img src="assets/framework.png" width="85%">
+  <img src="main_architecture.png" width="85%">
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ Invalid actions are blocked and refined through structured feedback prompting.
 ## Framework
 
 <p align="center">
-  <img src="assets/architecture.png" width="95%">
+  <img src="main_architecture.png" width="95%">
 </p>
 
 The framework contains two stages:
